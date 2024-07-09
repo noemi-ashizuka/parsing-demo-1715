@@ -3,6 +3,8 @@ require "json"
 # TODO - let's read/write data from beatles.json
 filepath = "data/beatles.json"
 
+# PARSING JSON
+
 # serialized_beatles =  File.read(filepath)
 
 # beatles = JSON.parse(serialized_beatles)
@@ -10,6 +12,8 @@ filepath = "data/beatles.json"
 # beatles["beatles"].each do |beatle|
 #   puts "#{beatle["first_name"]} plays the #{beatle["instrument"]}"
 # end
+
+# STORING JSON
 
 filepath_two = "data/cool_guys.json"
 

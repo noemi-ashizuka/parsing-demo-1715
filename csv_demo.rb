@@ -3,11 +3,16 @@ require "csv"
 # TODO - let's read/write data from beatles.csv
 filepath = "data/beatles.csv"
 
+# PARSING CSV
+
 # CSV.foreach(filepath, headers: :first_row) do |row|
 #   # puts "#{row[0]} #{row[1]} plays the #{row[2]}"
 #   # p row
 #   puts "#{row["First Name"]} #{row["Last Name"]} plays the #{row["Instrument"]}"
 # end
+
+
+# STORING CSV
 
 filepath_two = "data/new_band.csv"
 
