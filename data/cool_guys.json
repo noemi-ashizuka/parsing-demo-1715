@@ -1,0 +1,19 @@
+{
+  "cool_guys": [
+    {
+      "first_name": "Joe",
+      "last_name": "Estrem",
+      "instrument": "Guitar"
+    },
+    {
+      "first_name": "Pierre",
+      "last_name": "Conte",
+      "instrument": "Bass Guitar"
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Matsumoto",
+      "instrument": "Drums"
+    }
+  ]
+}
